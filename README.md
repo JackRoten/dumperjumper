@@ -1,5 +1,5 @@
 # dumperjumper
-Dumperjumper is a jump type web game that is mostly trash. Avaliable for anyone trashy enough at [dumperjumper.com](dumperjumper.com)
+Dumperjumper is a jump type web game that is mostly trash. Avaliable for anyone trashy enough at [dumperjumper.com](https://dumperjumper.com/)
 
 Is it better than other jump type games? Considering they are all trash it's at least the most honest.
 
